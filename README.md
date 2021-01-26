@@ -6,6 +6,7 @@ Algoritmi și tehnici de programare
 
 Proiectul trebuie să abordeze o temă economică și va permite realizarea următoarelor opțiuni
 (operații):
+
   x crearea fișierului binar (organizat secvențial sau relativ) - 0.4p
   
   x adăugarea unui articol în fișierul binar creat la punctul anterior – 0.4p
